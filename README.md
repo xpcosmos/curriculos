@@ -12,7 +12,7 @@ Me chamo Mikeias, tenho 20 anos de idade e curso Engenharia de produção! Estou
 
 ## Lastest Version of my resume
 
-Hi, recruiter! Welcome to my resume page! Here you'll discover every new thing of your future employe's career
+Hi, recruiter! Welcome to my resume page! Here you'll discover every new thing of your future employe's career.
 
 ### Presentation 
 
